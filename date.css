@@ -1,28 +1,7 @@
 body{
-	font-size: 100%;
-	background-image: url('"C:/Users/pc/Pictures/gggif.gif"');
-}
-h1{
-	text-align: center;
-}
-form{
-	border-radius: 3em;
-	margin: 0 auto;
-	width: 70%;
-}
-#survey-form{
-	background-color: white;
-}
-input,textarea{
-	width: 200px;
-	border: 1px solid#999;
-}
-input:focus, {
-	width: 200px;
-	border-color: orangered;
-}
-textarea{
-	height: 5em;
-	vertical-align: top;
-	resize: vertical;
+	background-image: url("C:/Users/pc/Pictures/giphy.gif");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
 }
